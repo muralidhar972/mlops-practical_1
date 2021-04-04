@@ -124,8 +124,6 @@ soupsieve==2.0.1
 Sphinx==1.8.5
 spyder==3.3.6
 spyder-kernels==0.5.2
-system-service==0.3
-systemd-python==234
 testpath==0.4.4
 threadpoolctl==2.1.0
 toml==0.10.2
