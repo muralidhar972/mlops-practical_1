@@ -11,8 +11,7 @@ def test_gender_encoder():
 def test_pred():
     assert 'Yes' == pred(dta)
 
-#test for survival 
+#test survived 
 def test_survived():
     assert  'Yes' == survived_endr(1)
-
 
