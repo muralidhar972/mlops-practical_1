@@ -118,7 +118,6 @@ SecretStorage==2.3.1
 selenium==3.141.0
 simplegeneric==0.8.1
 simplejson==3.16.0
-sip==4.19.21
 six==1.14.0
 sklearn==0.0
 soupsieve==2.0.1
