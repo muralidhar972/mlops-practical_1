@@ -135,6 +135,3 @@ uWSGI==2.0.19.1
 webencodings==0.5.1
 Werkzeug==1.0.1
 wrapt==1.11.2
-xkit==0.0.0
-zipp==1.0.0
-zope.interface==4.7.1
